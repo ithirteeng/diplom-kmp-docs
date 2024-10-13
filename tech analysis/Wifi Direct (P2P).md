@@ -1,7 +1,7 @@
 ### Описание
 Пока что звучит, как то, что нужно
 ### Что такое P2P
-Очень хорошо объяснено [тут](https://translated.turbopages.org/proxy_u/en-ru.ru.1451d694-67029f12-14a62018-74722d776562/https/www.geeksforgeeks.org/what-is-p2p-peer-to-peer-process/)
+Очень хорошо объяснено [тут](https://www.geeksforgeeks.org/what-is-p2p-peer-to-peer-process/)
 По сути мы будем создавать ту же Mesh-сеть. 
 ### Краткая информация по платформам
 **Из [коммента](https://stackoverflow.com/a/35422117):**
@@ -42,3 +42,4 @@ Just as an aside, you can access peer-to-peer Wi-Fi without using Multipeer Conn
 ### Дополнительная информация
 - [Статья](https://habr.com/ru/articles/333388/) о разработке библиотеки для соединения через Wifi Direct
 - [Коммент на StackOverflow](https://stackoverflow.com/a/35422117) , с инфой по P2P-соединениях
+- [Хороший гитхаб](https://github.com/onaio/android-p2p?ysclid=m27ta588hw840990223)
