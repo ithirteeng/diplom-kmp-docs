@@ -43,3 +43,5 @@ Just as an aside, you can access peer-to-peer Wi-Fi without using Multipeer Conn
 - [Статья](https://habr.com/ru/articles/333388/) о разработке библиотеки для соединения через Wifi Direct
 - [Коммент на StackOverflow](https://stackoverflow.com/a/35422117) , с инфой по P2P-соединениях
 - [Хороший гитхаб](https://github.com/onaio/android-p2p?ysclid=m27ta588hw840990223)
+- [Статья по p2p соединению](https://askwonder.com/research/technology-used-create-p2p-connection-wifi-ios-android-devices-no-hotspot-0bj8r4ait)
+- [Библиотека по п2п](http://p2pkit.io/developer/)
