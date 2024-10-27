@@ -10,3 +10,6 @@ https://github.com/NordicSemiconductor/Android-nRF-Mesh-Library – библа �
 https://github.com/NordicSemiconductor/IOS-nRF-Mesh-Library – библа для работы с ble mesh на iOS
 
 https://stackoverflow.com/a/30960168 - отсыл и получения данных по блютузу
+
+
+https://github.com/weliem/blessed-android – легкая библа по андроиду 
