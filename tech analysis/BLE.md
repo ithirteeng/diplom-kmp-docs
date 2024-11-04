@@ -13,3 +13,6 @@ https://stackoverflow.com/a/30960168 - отсыл и получения данн
 
 
 https://github.com/weliem/blessed-android – легкая библа по андроиду 
+
+https://habr.com/ru/articles/533580/ - статья про понимание блютуза и устройсты
+в
